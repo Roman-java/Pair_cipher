@@ -1,1 +1,1 @@
-# Pair_cipher
+Pair cipher implementation
